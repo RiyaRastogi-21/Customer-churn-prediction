@@ -70,6 +70,10 @@ streamlit run Customer_churn.py
 * Real-time Prediction API
 
 ## Author
+## 👩‍💻 Author
 
-AI/ML Project developed for learning and portfolio purposes.
+**Riya Rastogi**
 
+B.Tech Student (CSE - Artificial Intelligence & Machine Learning)
+
+Aspiring AI Engineer | Machine Learning Enthusiast
